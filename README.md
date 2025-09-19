@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Laravel**
 
-- 📫 How to reach me: **ikhlaselissaoui6@gmail.com**
+- 📫 How to reach me: **ikhlaselissaoui2@gmail.com**
 
 - 📄 Know about my experiences: [View my resume](https://drive.google.com/file/d/14jmsFxSfUlVK42Ur71SBsv8EJCqRiekH/view?usp=drive_link)
 
